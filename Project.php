@@ -11,7 +11,7 @@
 
 <?php
 
-include('/Applications/MAMP/htdocs/db_login.php');  
+include('db_login.php');  
           if (!$db_select) {
           echo 'Choo choo database';
               die("Unable to choose the database: <br />". mysql_error());

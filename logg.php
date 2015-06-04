@@ -23,7 +23,7 @@ echo $login, $password;
 
 /*_______________________   CONNECTING TO DATABASE    _____________________________*/
 
-include('/Applications/MAMP/htdocs/db_login.php');  
+include('db_login.php');  
 
   if (!$connection) 
 	  {

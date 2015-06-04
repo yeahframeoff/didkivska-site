@@ -4,6 +4,9 @@ session_start();
 <link rel="stylesheet" href="webstyle.css">
 
 <html>
+<head>
+    <meta charset="utf-8"></meta>
+</head>
 <body>
 <div id="header">
 <div id="logo">
