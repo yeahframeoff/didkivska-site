@@ -1,6 +1,7 @@
 <html>
 <body>
 <link rel="stylesheet" href="with header.css">
+<meta charset="utf-8">
 <section id="main_sec">
 <div id="picture_sec">
 <img src="star.png">
