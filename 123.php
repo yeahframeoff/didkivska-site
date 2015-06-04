@@ -1,12 +1,14 @@
 <?php
 session_start();
 ?>
-<link rel="stylesheet" href="with header.css">
-<script type="text/javascript" src="jquery.js"></script>
-
 
 
 <html>
+<head>
+    <link rel="stylesheet" href="with header.css">
+    <meta charset="utf-8">
+    <script type="text/javascript" src="jquery.js"></script>
+</head>
 <body>
 <header>
 

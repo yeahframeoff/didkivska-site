@@ -1,6 +1,9 @@
-<link rel="stylesheet" href="webstyle.css">
 
 <html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="webstyle.css">
+</head>
 <body>
 <div id="headerer">
 <div id="logo">

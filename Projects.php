@@ -4,6 +4,7 @@
 ?>
 <?php header("Content-type: text/html; Charset=utf-8"); ?>
 <link rel="stylesheet" href="projects.css">
+<meta charset="utf-8">
 <section id="main_sec">
 <div id="picture_sec">
 <br><br>
